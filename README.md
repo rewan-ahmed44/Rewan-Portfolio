@@ -21,3 +21,7 @@ What are the total sales ,
 What is the profit by year ,
 What is the profit by month ,
 Who are the top customers by revenue and profit generated for the company
+## Dashboard
+![dashboard rewan ahmed](https://github.com/user-attachments/assets/492b0757-1a2d-47ef-be13-a2318d0a79de)
+
+
